@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">559bf8f6-00c9-4b01-bc34-514820c029a9</dc:identifier>
+        <dc:title>Book of Days: A Novel</dc:title>
+        <dc:creator opf:file-as="Rubart, James L." opf:role="aut">James L. Rubart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-31T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;_"… in Your book all my days were recorded, even those which were purposed &lt;em&gt;_before they had come into being." &lt;/em&gt;—Psalm 139:16 Young Cameron Vaux’s mind is slipping. Memories of his wife, killed two years earlier in a car accident, are vanishing just as his dad predicted they would. Memories he knows he has to remember. His father tells Cameron that to save his mind he must find "the book with all days in it" —the past and future record of every soul on earth. When an obscure clue leads Cameron to a small central Oregon town, he meets enigmatic Taylor Stone, a possible guide to finding the book who seems to carry secrets far deeper than anyone imagines. Local hotshot TV personality Ann Bannister thinks the legend of the book is a farce, but she has her reasons to join Cameron’s search anyway. Finally, there is fanatical New Age guru Jason Judah, who will stop at nothing to find the book of days before Cameron does.  &lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;/em&gt;Acclaim for &lt;em&gt;Book of Days&lt;/em&gt;:  &lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;/em&gt;"I devoured &lt;em&gt;Book of Days&lt;/em&gt; in one sitting. It is an exciting but poignant novel about how truly important our memories and choices are to who we become. It's still resonating in my heart."  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Colleen Coble&lt;/strong&gt;, best-selling author of _The Lightkeeper's Bride&lt;br&gt;_&lt;br&gt;"_Book of Days_ is actually better than Rubart's best-selling debut, &lt;em&gt;Rooms&lt;/em&gt; . . . a terrific story that is equal parts fast-paced thriller, thought-provoking allegory, and moving drama."  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rick Acker&lt;/strong&gt;, author of _When the Devil Whistles&lt;br&gt;_&lt;br&gt;"James L. Rubart is officially now one of my favorite writers. &lt;em&gt;Book of Days&lt;/em&gt; is a great read, why people buy novels."  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Dan Walsh&lt;/strong&gt;, award-winning author of &lt;em&gt;The Unfinished Gift&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;James L. Rubart&lt;/strong&gt; is a professional marketer, speaker, and writer. He serves on the board of the Northwest Christian Writers Association and lives with his wife and sons in Seattle, Washington. &lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>B&amp;H Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781433671517</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Christian</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Religious</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-14T01:01:02.092000+00:00" name="calibre:timestamp"/>
+        <meta content="Book of Days: A Novel" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
